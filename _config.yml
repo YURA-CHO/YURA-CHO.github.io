@@ -4,7 +4,7 @@ email:              "botanica209@gmail.com"
 description:        "마케팅/프로그래밍/ 등 새로 배운 것들을 기록하는 공간입니다."
 author:             "YR"
 baseurl:            "/"
-url:                "https://YURA.github.io"
+url:                "https://yura-cho.github.io/"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
